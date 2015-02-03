@@ -2,7 +2,7 @@
 
 Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribuições, torna públicas as condições para participação no Primeiro Hackathon de JavaScript – NeJs 2015.
 
-1. Do Evento
+* 1. Do Evento * 
 
 1.1. O Hackathon é uma maratona de hackers, programadores, desenvolvedores, designers, educadores e inventores em geral, para promover o desenvolvimento de projetos que visem a transparência de informações públicas por meio de tecnologias digitais. 
 
