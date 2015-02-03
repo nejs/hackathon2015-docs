@@ -2,7 +2,7 @@
 
 Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribuições, torna públicas as condições para participação no Primeiro Hackathon de JavaScript – NeJs 2015.
 
-* 1. Do Evento * 
+**1. Do Evento** 
 
 1.1. O Hackathon é uma maratona de hackers, programadores, desenvolvedores, designers, educadores e inventores em geral, para promover o desenvolvimento de projetos que visem a transparência de informações públicas por meio de tecnologias digitais. 
 
@@ -16,7 +16,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 1.6. Os projetos apresentados devem permanecer no repositório da comunidade para que após o eventos outras pessoas possam contribuir com o projeto.
 
-2. Das Propostas de Inscrições
+**2. Das Propostas de Inscrições**
 
 2.1. As propostas de inscrições serão realizadas exclusivamente por meio de preenchimento de formulário disponível no site do NeJs no período de X/Y/Z até às 23h59 do dia X/Y/Z, horário oficial de Natal RN.
 
@@ -28,7 +28,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 2.5. A inscrição será isenta de valor para estudante universitários mediante comprovaçao e custará R$ 30,00 para os demais participantes.
 
-3. Da Seleção das Inscrições
+**3. Da Seleção das Inscrições**
 
 3.1. Para o Primeiro Hackathon de JavaScript serão disponibilizadas X vagas individuais. Os grupos serão formados no primeiro dia do evento, a depender das ideias enviadas, do perfil dos selecionados e do interesse dos mesmos.
 
@@ -40,7 +40,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 3.3. O resultado da seleção será divulgado aos participantes no dia 24/04/2014.
 
-4. Da Participação no Evento
+**4. Da Participação no Evento**
 
 4.1. Os participantes/equipes deverão dispor de computadores pessoais portateis. Os computadores não serão cedidos pela organização do evento.
 
@@ -48,7 +48,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 4.3. Os participantes deverão levar comida.
 
-5. Da Apresentação dos Projetos
+**5. Da Apresentação dos Projetos**
 
 5.1. Após a maratona de desenvolvimento, todos os Projetos deverão ser apresentados no dia X, a partir das Yh.
 
@@ -58,7 +58,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 5.4. As apresentações deverão ser feitas em auditório, no local do evento, para todos os participantes do evento e para Comissão Julgadora.
 
-6. Da Avaliação dos Projetos
+**6. Da Avaliação dos Projetos**
 
 6.1. Os projetos desenvolvidos neste Hackathon serão avaliados no dia Y por uma Comissão de especialistas, designada pelo NeJs.
 
@@ -84,11 +84,11 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 6.8. Serão premiados, de acordo com as notas finais, os três projetos melhor pontuados.
 
-7. Dos Resultados
+**7. Dos Resultados**
 
 7.1. Os resultados do concurso serão anunciados no local do evento no dia X às Yh e os projetos serão disponibilizados no [GitHub do Nejs](http://github.com/nejs).
 
-8. Da Premiação
+**8. Da Premiação**
 
 8.1. Os vencedores do Primeiro Hackathon de JavaScript – NeJs 2015 receberão premios oferecidos pelos pratrocinadores X, Y e Z.
 
@@ -98,7 +98,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 8.1.3. O terceiro lugar receberá Bli Bli Bli.
 
-9. Das Disposições Finais
+**9. Das Disposições Finais**
 
 9.1. Todos aqueles que preencherem o formulário de inscrição no Primeiro Hackathon de JavaScript – NeJs 2015 automaticamente concordam com os termos deste Edital.
 
