@@ -44,7 +44,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 4.1. Os participantes/equipes deverão dispor de computadores pessoais portateis. Os computadores não serão cedidos pela organização do evento.
 
-4.2. Será permitido levar colchão inflável para possíveis cochilos no decorrer da maratona.
+4.2. Será permitido levar colchão inflável para possíveis cochilos no decorrer do Hackathon.
 
 4.3. Os participantes deverão levar comida.
 
