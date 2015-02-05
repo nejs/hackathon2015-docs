@@ -4,11 +4,11 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **1. Do Evento** 
 
-1.1. O Hackathon é uma maratona de hackers, programadores, desenvolvedores, designers, educadores e inventores em geral, para promover o desenvolvimento de projetos que visem a transparência de informações públicas por meio de tecnologias digitais. 
+1.1. Hackathon significa maratona de programação. O termo resulta de uma combinação das palavras inglesas “hack” (programar de forma excepcional) e “marathon” (maratona), é um evento que reúne hackers, programadores, designers e outros profissionais ligados ao desenvolvimento de software, cujo objetivo é desenvolver um software que atenda a um fim específico ou projetos livres que sejam inovadores e utilizáveis. 
 
-1.2. Hackers, neste concurso, são pessoas de qualquer gênero, profissão ou habilidade, capazes de usar sua criatividade e quaisquer tecnologias para transformar informações de interesse público em projetos e serviços com vistas à melhoria da educação.
+1.2. Hackers, neste concurso, são pessoas de qualquer gênero, profissão ou habilidade, capazes de usar sua criatividade e quaisquer tecnologias para transformar informações de interesse público em projetos e serviços com vistas à melhoria da sociedade, geralmente pessoas com alto nível de conhecimento de programação.
 
-1.3. A organização deste Hackathon será feita pelos membros da comunidade NeJs com apoio da Universidade Federal do Rio Grande do Norte - UFRN, conforme Acordo de Cooperação Técnica firmado entre as partes.
+1.3. A organização deste Hackathon será feita pelos membros da comunidade NeJs com apoio da Universidade Federal do Rio Grande do Norte - UFRN.
 
 1.4. O Primeiro Hackathon de JavaScript – NeJs 2015 acontecerá de X a Y de junho/julho de 2015 em Natal RN, em local a ser definido.
 
