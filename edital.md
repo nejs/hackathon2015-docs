@@ -62,7 +62,10 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 6.1. Os projetos desenvolvidos neste Hackathon serão avaliados no dia Y por uma Comissão de especialistas, designada pelo NeJs.
 
-6.2. A Comissão será composta por profissionais com trabalhos reconhecidos nacionalmente na área da Educação e de Informações Públicas.
+6.2. A Comissão será composta pelos seguintes profissionais:
+-
+-
+-
 
 6.3. Os Projetos serão avaliados em três quesitos: interesse público; criatividade; e qualidade técnica.
 
@@ -78,11 +81,13 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 6.6. A escolha dos projetos vencedores poderá ser feita por consenso entre os avaliadores, desde que justificados cada um dos quesitos avaliados.
 
-6.7. Em caso de não haver consenso, todos os participantes da Comissão Julgadora, deverão atribuir notas de 0 a 10 para os quesitos apresentados no item 7.3 deste edital.
+6.7. Em caso de não haver consenso, todos os participantes da Comissão Julgadora, deverão atribuir notas de 0 a 10 para os quesitos apresentados no item 6.3 deste edital.
 
 6.7.1. Os projetos vencedores serão aqueles que obtiverem o maior somatório geral das notas atribuídas por todos os componentes da Comissão.
 
 6.8. Serão premiados, de acordo com as notas finais, os três projetos melhor pontuados.
+
+6.9. Somente serão avaliados os projetos que atenderem as especificações propostas.
 
 **7. Dos Resultados**
 
