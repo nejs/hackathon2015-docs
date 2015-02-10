@@ -1,6 +1,9 @@
-*Ao Instituto Metropole Digital (IMD)*
-*At.: Marcel Oliveira*
-*Ref.: Solicitação de espaço*
+
+Ao Instituto Metropole Digital (IMD)
+
+At.: Marcel Oliveira
+
+Ref.: Solicitação de espaço
 
 Cumprimentando-o cordialmente, vimos solicitar de V. Sª, se poderiam conceder autorização para utilizarmos o auditório para abertura e fechamento do evento e as salas A306, A308 e A309 para a realização da competição, entre as 08h do dia 04 de julho de 2015 ás 19h do dia 05 de julho de 2015 para um Hackathon realizado pela
 Comunidade de JavaScript do Nordeste (NeJs) a fim de disseminar o conteúdo de JavaScript pelo Nordeste.
