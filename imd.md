@@ -14,4 +14,5 @@ O evento custará 30 reais por participante com direito a meia entrada para estu
 Certos de podermos contar com vossa colaboração neste sentido, antecipadamente agradecemos.
 
 Atenciosamente,
+
 Henri Michel S. Cavalcante
