@@ -1,5 +1,5 @@
 
-Ao Instituto me Digital (IMD)
+Ao Instituto Metrópole Digital (IMD)
 
 At.: Prof. Dr. Marcel Oliveira
 
