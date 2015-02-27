@@ -109,19 +109,23 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 8.1.3. O terceiro lugar receberá Bli Bli Bli.
 
-**9. Das Disposições Finais**
+**9. Da Certificação**
 
-9.1. Todos aqueles que preencherem o formulário de inscrição no Primeiro Hackathon de JavaScript – NeJs 2015 automaticamente concordam com os termos deste Edital.
+9.1. Os participantes que permanecerem até o final do evento e entregarem seus projetos, terão direito ao certificado de participação com carga horária de 30 horas.
+9.2. A emissão do certificado só será feita através de solicitação do próprio participante.
 
-9.2. A organização do Hackathon se reserva o direito de resolver arbitrariamente conflitos que possam acontecer no decorrer do concurso, mas se compromete em manter a transparência das suas decisões.
+**10. Das Disposições Finais**
 
-9.3. O NeJs e organizadores poderão utilizar as ideias, os projetos e/ou os códigos desenvolvidos pelos participantes no Hackathon integral ou parcialmente, sem ônus adicional para os organizadores.
+10.1. Todos aqueles que preencherem o formulário de inscrição no Primeiro Hackathon de JavaScript – NeJs 2015 automaticamente concordam com os termos deste Edital.
 
-9.4. Os participantes cedem os direitos de uso de imagem aos organizadores sem ônus adicional para os organizadores.
+10.2. A organização do Hackathon se reserva o direito de resolver arbitrariamente conflitos que possam acontecer no decorrer do concurso, mas se compromete em manter a transparência das suas decisões.
 
-9.5. Os casos omissos e eventuais dúvidas referentes a este Edital serão resolvidos e esclarecidos pela organização do evento.
+10.3. O NeJs e organizadores poderão utilizar as ideias, os projetos e/ou os códigos desenvolvidos pelos participantes no Hackathon integral ou parcialmente, sem ônus adicional para os organizadores.
 
- 
+10.4. Os participantes cedem os direitos de uso de imagem aos organizadores sem ônus adicional para os organizadores.
+
+10.5. Os casos omissos e eventuais dúvidas referentes a este Edital serão resolvidos e esclarecidos pela organização do evento.
+
 
 Henri Cavalcante
 
