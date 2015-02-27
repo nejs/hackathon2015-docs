@@ -112,6 +112,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 **9. Da Certificação**
 
 9.1. Os participantes que permanecerem até o final do evento e entregarem seus projetos, terão direito ao certificado de participação com carga horária de 30 horas.
+
 9.2. A emissão do certificado só será feita através de solicitação do próprio participante.
 
 **10. Das Disposições Finais**
