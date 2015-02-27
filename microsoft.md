@@ -4,7 +4,7 @@ At.: Djalma Andrade
 
 Ref.: Solicitação de Patrocínio para Evento
 
-Cumprimentando-o cordialmente, vimos solicitar de V. Sª, conforme conversa iniciada pessoalmente no gabinete do Governador em Maceió AL, se poderia conceder patrocínio para a premiação do Primeiro Hackathon de JavaScript – NeJs 2015.
+Cumprimentando-o cordialmente, vimos solicitar de V. Sª, conforme conversa iniciada pessoalmente no gabinete do Governador em Maceió AL, patrocínio para a premiação do Primeiro Hackathon de JavaScript – NeJs 2015.
 
 A idéia inicial da premiação são cortesias para tentativa do exame [70-480](https://www.microsoft.com/learning/pt-br/exam-70-480.aspx) para o grupo vencedor (6 participantes) e alguns outros brindes como adesivos e canetas para os demais participantes. 
 
