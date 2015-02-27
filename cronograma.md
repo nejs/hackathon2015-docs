@@ -4,11 +4,9 @@ DIA 01 - 07:00 - Credenciamento
 
 DIA 01 - 08:00 - Apresentação do Hackathon
 
-DIA 01 - 08:30 - Inicio da formação dos grupos
+DIA 01 - 09:30 - Formação dos grupos
 
-DIA 01 - 10:00 - Formalização dos grupos
-
-DIA 01 - 11:00 - Sorteio e apresentação das propostas de projetos
+DIA 01 - 10:30 - Sorteio e apresentação da proposta de projeto
 
 DIA 01 - 12:00 - Almoço
 

@@ -10,9 +10,11 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 1.3. A organização deste Hackathon será feita pelos membros da comunidade NeJs com apoio da Universidade Federal do Rio Grande do Norte - UFRN.
 
-1.4. O Primeiro Hackathon de JavaScript – NeJs 2015 acontecerá de X a Y de junho/julho de 2015 em Natal RN, em local a ser definido.
+1.4. O Primeiro Hackathon de JavaScript – NeJs 2015 acontecerá de 5 a 5 de julho de 2015 em Natal RN, na Universidade Federal do Rio Grande do Norte, no prédio do Instituto Metrópole Digital.
 
-1.5. Os participantes inscritos deverão submeter até o dia X de junho de 2015 propostas de desafios/soluções para se sejam sorteadas no dia do evento o tema para desenvolvimento no dia do evento.
+1.5. Os participantes inscritos deverão submeter até o dia X de junho de 2015 propostas de projeto para se seja sorteada no dia do evento.
+
+1.5.1 A proposta de projeto escolhida no dia do evento será única a todos os participantes, ou seja, todos os 
 
 1.6. Os projetos apresentados devem permanecer no repositório da comunidade para que após o eventos outras pessoas possam contribuir com o projeto.
 
@@ -30,19 +32,21 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **3. Da Seleção das Inscrições**
 
-3.1. Para o Primeiro Hackathon de JavaScript serão disponibilizadas X vagas individuais. Os grupos serão formados no primeiro dia do evento, a depender das ideias enviadas, do perfil dos selecionados e do interesse dos mesmos.
+3.1. Para o Primeiro Hackathon de JavaScript serão disponibilizadas 150 vagas individuais. Os grupos serão formados no primeiro dia do evento, a depender das ideias enviadas, do perfil dos selecionados e do interesse dos mesmos.
 
-3.1.1 Cada grupo deverá conter no máximo 6 participantes.
+3.1.1 Cada grupo deverá conter de 1 até 6 participantes.
 
-3.1.2 Os grupos deverão estar formados até X horas do primeiro dia do evento.
+3.1.2 Os grupos deverão estar formados até 10:30 horas do primeiro dia do evento.
 
 3.2 A organização poderá julgar a viabilidade de disponibilizar mais vagas, se considerar que as ideias apresentadas na inscrição relevantes para a disseminação de dados educacionais.
 
-3.3. O resultado da seleção será divulgado aos participantes no dia 24/04/2014.
+3.3. O resultado da seleção será divulgado aos participantes no dia 05/06/2015.
 
 **4. Da Participação no Evento**
 
-4.1. Os participantes/equipes deverão dispor de computadores pessoais portateis. Os computadores não serão cedidos pela organização do evento.
+4.1. Os participantes/equipes deverão dispor de computadores pessoais portateis.
+
+4.1.1 Os computadores não serão cedidos pela organização do evento.
 
 4.2. Será permitido levar colchão inflável para possíveis cochilos no decorrer do Hackathon.
 
@@ -50,17 +54,19 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **5. Da Apresentação dos Projetos**
 
-5.1. Após a maratona de desenvolvimento, todos os Projetos deverão ser apresentados no dia X, a partir das Yh.
+5.1. Após a maratona de desenvolvimento, todos os Projetos deverão ser apresentados no dia 05/06/2015, a partir das 18h.
 
-5.2. A ordem de apresentação dos Projetos será definida pela organização do evento.
+5.2. Todos o código do projeto deverá ser submetido até as 18h do dia 05/06/2015 para que o projeto possa ser julgado.
 
-5.3. A apresentação de Projeto terá duração máxima de 10 minutos.
+5.3. A ordem de apresentação dos Projetos será definida pela organização do evento.
 
-5.4. As apresentações deverão ser feitas em auditório, no local do evento, para todos os participantes do evento e para Comissão Julgadora.
+5.4. A apresentação de Projeto terá duração máxima de 10 minutos.
+
+5.5. As apresentações deverão ser feitas em auditório, no local do evento, para todos os participantes do evento e para Comissão Julgadora.
 
 **6. Da Avaliação dos Projetos**
 
-6.1. Os projetos desenvolvidos neste Hackathon serão avaliados no dia Y por uma Comissão de especialistas, designada pelo NeJs.
+6.1. Os projetos desenvolvidos neste Hackathon serão avaliados no dia 05/06/2015 por uma Comissão de especialistas, designada pelo NeJs.
 
 6.2. A Comissão será composta pelos seguintes profissionais:
 -
@@ -91,7 +97,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **7. Dos Resultados**
 
-7.1. Os resultados do concurso serão anunciados no local do evento no dia X às Yh e os projetos serão disponibilizados no [GitHub do Nejs](http://github.com/nejs).
+7.1. Os resultados do concurso serão anunciados no local do evento no dia 05/06/2015 às 19h e os projetos vencedores deverão ser transferidos e disponibilizados no [GitHub do Nejs](http://github.com/nejs).
 
 **8. Da Premiação**
 
