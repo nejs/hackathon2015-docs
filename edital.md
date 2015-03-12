@@ -115,7 +115,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 9.2. O certificado será enviado ao e-mail do participante.
 
-9.2.1. Para fins de validação, haverá uma página no site do evento com os nomes dos participantes certificados.
+9.2.1. Para fins de validação do certificado, haverá uma página no site do evento com os nomes dos participantes certificados.
 
 **10. Das Disposições Finais**
 
