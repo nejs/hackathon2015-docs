@@ -10,7 +10,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 1.3. A organização deste Hackathon será feita pelos membros da comunidade NeJs com apoio da Universidade Federal do Rio Grande do Norte - UFRN.
 
-1.4. O Primeiro Hackathon de JavaScript – NeJs 2015 acontecerá de 5 a 5 de julho de 2015 em Natal RN, na Universidade Federal do Rio Grande do Norte, no prédio do Instituto Metrópole Digital.
+1.4. O Primeiro Hackathon de JavaScript – NeJs 2015 acontecerá nos dias 14 a 15 de julho de 2015 em Natal RN, na Universidade Federal do Rio Grande do Norte, no prédio do Instituto Metrópole Digital.
 
 1.5. Os participantes inscritos deverão submeter até o dia X de junho de 2015 propostas de projeto para se seja sorteada no dia do evento.
 
