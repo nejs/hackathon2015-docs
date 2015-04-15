@@ -10,17 +10,17 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 1.3. A organização deste Hackathon será feita pelos membros da comunidade NeJs com apoio da Universidade Federal do Rio Grande do Norte - UFRN.
 
-1.4. O Primeiro Hackathon de JavaScript – NeJs 2015 acontecerá de 5 a 5 de julho de 2015 em Natal RN, na Universidade Federal do Rio Grande do Norte, no prédio do Instituto Metrópole Digital.
+1.4. O Primeiro Hackathon de JavaScript – NeJs 2015 **acontecerá nos dias 04 a 05 de julho de 2015** em Natal RN, na Universidade Federal do Rio Grande do Norte, no prédio do **Instituto Metrópole Digital**.
 
-1.5. Os participantes inscritos deverão submeter até o dia X de junho de 2015 propostas de projeto para se seja sorteada no dia do evento.
+1.5. Os participantes inscritos deverão **submeter até o dia 26 de junho de 2015** propostas de projeto para se seja sorteada no dia do evento.
 
 1.5.1 A proposta de projeto escolhida no dia do evento será única a todos os participantes, ou seja, todos os 
 
 1.6. Os projetos apresentados devem permanecer no repositório da comunidade para que após o eventos outras pessoas possam contribuir com o projeto.
 
-**2. Das Propostas de Inscrições**
+**2. Das Inscrições**
 
-2.1. As propostas de inscrições serão realizadas exclusivamente por meio de preenchimento de formulário disponível no site do NeJs no período de X/Y/Z até às 23h59 do dia X/Y/Z, horário oficial de Natal RN.
+2.1. As inscrições serão realizadas exclusivamente por meio do link http://www.eventick.com.br/hackathon2015 e estará até às 23h59 do dia 26/05/2015, horário oficial de Natal RN.
 
 2.2. A inscrição é individual e o candidato deve indicar no formulário a categoria correspondente ao seu perfil (programador ou designer).
 
@@ -28,7 +28,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 2.4. Não serão permitidas inscrições de pessoas que sejam membros da organização do NeJs, assim como membros da organização do evento.
 
-2.5. A inscrição será isenta de valor para estudante universitários mediante comprovaçao e custará R$ 30,00 para os demais participantes.
+2.5. **O evento custará R$ 30,00 por participante** com direito a meia entrada para estudantes e isenção da taxa para os primeiros 50 alunos inscritos do Instituto Metrópole Digital (IMD) nos Cursos Técnicos do IMD, Bacharelado em Tecnologia da Informação, Bacharelado em Engenharia de Software, Bacharelado em Ciência da Computação, Residência em Engenharia de Software e Mestrado Profissional em Engenharia de Software mediante uma comprovação de conhecimento mínimo que será dado pelo término do curso gratuito de JavaScript no CodeCademy bastando apenas enviar o link do perfil na plataforma CodeCademy com o curso terminado para que seja concedida a isenção.
 
 **3. Da Seleção das Inscrições**
 
@@ -66,12 +66,13 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **6. Da Avaliação dos Projetos**
 
-6.1. Os projetos desenvolvidos neste Hackathon serão avaliados no dia 05/06/2015 por uma Comissão de especialistas, designada pelo NeJs.
+6.1. Os projetos desenvolvidos neste Hackathon serão avaliados no dia 05/06/2015 por uma comissão designada pelo NeJs.
 
 6.2. A Comissão será composta pelos seguintes profissionais:
--
--
--
+
+- X
+- Y
+- Z
 
 6.3. Os Projetos serão avaliados em três quesitos: interesse público; criatividade; e qualidade técnica.
 
@@ -97,7 +98,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **7. Dos Resultados**
 
-7.1. Os resultados do concurso serão anunciados no local do evento no dia 05/06/2015 às 19h e os projetos vencedores deverão ser transferidos e disponibilizados no [GitHub do Nejs](http://github.com/nejs).
+7.1. Os resultados do concurso serão anunciados no local do evento no dia 05/06/2015 às 19h e os projetos vencedores deverão ser transferidos para o [GitHub do Nejs](http://github.com/nejs) e estarão disponiveis sob licença [BSD](http://pt.wikipedia.org/wiki/Licen%C3%A7a_BSD).
 
 **8. Da Premiação**
 
@@ -123,11 +124,9 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 10.2. A organização do Hackathon se reserva o direito de resolver arbitrariamente conflitos que possam acontecer no decorrer do concurso, mas se compromete em manter a transparência das suas decisões.
 
-10.3. O NeJs e organizadores poderão utilizar as ideias, os projetos e/ou os códigos desenvolvidos pelos participantes no Hackathon integral ou parcialmente, sem ônus adicional para os organizadores.
+10.3. Os participantes cedem os direitos de uso de imagem aos organizadores sem ônus adicional para os organizadores.
 
-10.4. Os participantes cedem os direitos de uso de imagem aos organizadores sem ônus adicional para os organizadores.
-
-10.5. Os casos omissos e eventuais dúvidas referentes a este Edital serão resolvidos e esclarecidos pela organização do evento.
+10.4. Os casos omissos e eventuais dúvidas referentes a este Edital serão resolvidos e esclarecidos pela organização do evento.
 
 
 Henri Cavalcante
