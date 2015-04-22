@@ -54,13 +54,13 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **5. Da Apresentação dos Projetos**
 
-5.1. Após a maratona de desenvolvimento, todos os Projetos deverão ser apresentados no dia 05/06/2015, a partir das 18h.
+5.1. **Após a maratona de desenvolvimento, todos os projetos deverão ser apresentados no dia 05/06/2015, a partir das 18h.**
 
-5.2. Todos o código do projeto deverá ser submetido até as 18h do dia 05/06/2015 para que o projeto possa ser julgado.
+5.2. Todo o código do projeto deverá ser submetido até as 18h do dia 05/06/2015 para que o projeto possa ser julgado.
 
-5.3. A ordem de apresentação dos Projetos será definida pela organização do evento.
+5.3. A ordem de apresentação dos projetos será definida pela organização do evento.
 
-5.4. A apresentação de Projeto terá duração máxima de 10 minutos.
+5.4. A apresentação do projeto terá duração máxima de 10 minutos.
 
 5.5. As apresentações deverão ser feitas em auditório, no local do evento, para todos os participantes do evento e para Comissão Julgadora.
 
