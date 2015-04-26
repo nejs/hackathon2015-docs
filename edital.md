@@ -70,9 +70,9 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 6.2. A Comissão será composta pelos seguintes profissionais:
 
-- X
-- Y
-- Z
+- [Fábio M Costa](https://github.com/fabiomcosta)
+- [Daniel Filho](https://github.com/DanielFilho)
+- (Vaga Disponível)
 
 6.3. Os Projetos serão avaliados em três quesitos: interesse público; criatividade; e qualidade técnica.
 
@@ -102,13 +102,13 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **8. Da Premiação**
 
-8.1. Os vencedores do Primeiro Hackathon de JavaScript – NeJs 2015 receberão premios oferecidos pelos pratrocinadores X, Y e Z.
+8.1. Os vencedores do Primeiro Hackathon de JavaScript – NeJs 2015 receberão premios oferecidos pelos pratrocinadores [wiquadro](http://wiquadro.com.br) e [ACADEMIA .NET PARA ZUMBIS](https://www.youtube.com/user/curtinhasdotnet).
 
-8.1.1. O primeiro lugar receberá Bla Bla Bla.
+8.1.1. O primeiro lugar receberá R$ 1.000,00.
 
-8.1.2. O segundo lugar receberá Blé Blé Blé.
+8.1.2. O segundo lugar receberá R$ 700,00.
 
-8.1.3. O terceiro lugar receberá Bli Bli Bli.
+8.1.3. O terceiro lugar receberá R$ 300,00.
 
 **9. Da Certificação**
 
