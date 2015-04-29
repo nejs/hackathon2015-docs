@@ -16,7 +16,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 1.5.1 A proposta de projeto escolhida no dia do evento será única a todos os participantes, ou seja, todos os 
 
-1.6. Os projetos apresentados devem permanecer no repositório da comunidade para que após o eventos outras pessoas possam contribuir com o projeto.
+1.6. Os projetos apresentados devem permanecer no repositório da comunidade para que após o evento outras pessoas possam contribuir com o projeto.
 
 **2. Das Inscrições**
 
@@ -74,7 +74,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 - [Daniel Filho](https://github.com/DanielFilho)
 - (Vaga Disponível)
 
-6.3. Os Projetos serão avaliados em três quesitos: interesse público; criatividade; e qualidade técnica.
+6.3. Os projetos serão avaliados em três quesitos: interesse público; criatividade; e qualidade técnica.
 
 6.3.1. No quesito interesse público será avaliado se o projeto atende à necessidade coletiva e se a proposta colabora com a melhoria de vida de cidadãos e cidadãs em sociedade.
 
@@ -102,7 +102,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **8. Da Premiação**
 
-8.1. Os vencedores do Primeiro Hackathon de JavaScript – NeJs 2015 receberão premios oferecidos pelos pratrocinadores [wiquadro](http://wiquadro.com.br) e [ACADEMIA .NET PARA ZUMBIS](https://www.youtube.com/user/curtinhasdotnet).
+8.1. Os vencedores do Primeiro Hackathon de JavaScript – NeJs 2015 receberão prêmios oferecidos pelos pratrocinadores [wiquadro](http://wiquadro.com.br) e [ACADEMIA .NET PARA ZUMBIS](https://www.youtube.com/user/curtinhasdotnet).
 
 8.1.1. O primeiro lugar receberá R$ 1.000,00.
 
