@@ -12,11 +12,11 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 1.4. O Primeiro Hackathon de JavaScript – NeJs 2015 **acontecerá nos dias 04 a 05 de julho de 2015** em Natal RN, na Universidade Federal do Rio Grande do Norte, no prédio do **Instituto Metrópole Digital**.
 
-1.5. Os participantes inscritos deverão **submeter até o dia 26 de junho de 2015** propostas de projeto para se seja sorteada no dia do evento.
+1.5. Os participantes inscritos deverão **submeter até o dia 26 de junho de 2015** propostas de projeto para que seja sorteada no dia do evento.
 
 1.5.1 A proposta de projeto escolhida no dia do evento será única a todos os participantes, ou seja, todos os 
 
-1.6. Os projetos apresentados devem permanecer no repositório da comunidade para que após o evento outras pessoas possam contribuir com o projeto.
+1.6. Os projetos apresentados devem permanecer no repositório da comunidade para que após o evento outras pessoas possam contribuir para o projeto.
 
 **2. Das Inscrições**
 
@@ -28,7 +28,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 2.4. Não serão permitidas inscrições de pessoas que sejam membros da organização do NeJs, assim como membros da organização do evento.
 
-2.5. **O evento custará R$ 30,00 por participante** com direito a meia entrada para estudantes e isenção da taxa para os primeiros 50 alunos inscritos do Instituto Metrópole Digital (IMD) nos Cursos Técnicos do IMD, Bacharelado em Tecnologia da Informação, Bacharelado em Engenharia de Software, Bacharelado em Ciência da Computação, Residência em Engenharia de Software e Mestrado Profissional em Engenharia de Software mediante uma comprovação de conhecimento mínimo que será dado pelo término do curso gratuito de JavaScript no CodeCademy bastando apenas enviar o link do perfil na plataforma CodeCademy com o curso terminado para que seja concedida a isenção.
+2.5. **O evento custará R$ 30,00 por participante** com direito a meia entrada para estudantes e isenção da taxa para os primeiros 50 alunos inscritos do Instituto Metrópole Digital (IMD) nos Cursos Técnicos do IMD, Bacharelado em Tecnologia da Informação, Bacharelado em Engenharia de Software, Bacharelado em Ciência da Computação, Residência em Engenharia de Software e Mestrado Profissional em Engenharia de Software mediante uma comprovação de conhecimento mínimo que será dado pelo término do curso gratuito de JavaScript no [Codecademy](http://www.codecademy.com/pt) bastando apenas enviar o link do perfil na plataforma [Codecademy](http://www.codecademy.com/pt) com o curso terminado para que seja concedida a isenção.
 
 **3. Da Seleção das Inscrições**
 
@@ -70,7 +70,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 6.2. A Comissão será composta pelos seguintes profissionais:
 
-- [Fábio M Costa](https://github.com/fabiomcosta)
+- [Fábio M. Costa](https://github.com/fabiomcosta)
 - [Daniel Filho](https://github.com/DanielFilho)
 - (Vaga Disponível)
 
