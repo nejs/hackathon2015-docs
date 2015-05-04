@@ -14,7 +14,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 1.5. Os participantes inscritos deverão **submeter até o dia 26 de junho de 2015** propostas de projeto para que seja sorteada no dia do evento.
 
-1.5.1 A proposta de projeto escolhida no dia do evento será única a todos os participantes, ou seja, de todos as propostas submetidas será sorteada uma única proposta para todos os participantes. 
+1.5.1 A proposta de projeto escolhida no dia do evento será única a todos os participantes, ou seja, de todos as propostas submetidas, será sorteada uma única proposta para todos os participantes. 
 
 1.6. Os projetos apresentados devem permanecer no repositório da comunidade para que após o evento outras pessoas possam contribuir para o projeto.
 
