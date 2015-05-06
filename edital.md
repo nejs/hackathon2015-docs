@@ -20,7 +20,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **2. Das Inscrições**
 
-2.1. As inscrições serão realizadas exclusivamente por meio do link http://www.eventick.com.br/hackathon2015 e estará até às 23h59 do dia 26/05/2015, horário oficial de Natal RN.
+2.1. As inscrições serão realizadas exclusivamente por meio do link http://www.eventick.com.br/hackathon2015 e estará até às 23h59 do dia 26/06/2015, horário oficial de Natal RN.
 
 2.2. A inscrição é individual e o candidato deve indicar no formulário a categoria correspondente ao seu perfil (programador ou designer).
 
