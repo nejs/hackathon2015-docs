@@ -72,7 +72,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 - [Fábio M. Costa](https://github.com/fabiomcosta)
 - [Daniel Filho](https://github.com/DanielFilho)
-- (Vaga Disponível)
+- [Bernard De Luna](https://github.com/bernarddeluna)
 
 6.3. Os projetos serão avaliados em três quesitos: interesse público; criatividade; e qualidade técnica.
 
