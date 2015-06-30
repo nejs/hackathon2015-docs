@@ -102,7 +102,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **8. Da Premiação**
 
-8.1. Os vencedores do Primeiro Hackathon de JavaScript – NeJs 2015 receberão prêmios oferecidos pelos pratrocinadores [wiquadro](http://wiquadro.com.br) e [ACADEMIA .NET PARA ZUMBIS](https://www.youtube.com/user/curtinhasdotnet).
+8.1. Os vencedores do Primeiro Hackathon de JavaScript – NeJs 2015 receberão prêmios oferecidos pelos pratrocinadores [Wiquadro](http://wiquadro.com.br), [ACADEMIA .NET PARA ZUMBIS](https://www.youtube.com/user/curtinhasdotnet), [Evolux](http://www.evolux.net.br/), [Microsoft](https://www.microsoft.com/).
 
 8.1.1. O primeiro lugar receberá R$ 1.000,00.
 
