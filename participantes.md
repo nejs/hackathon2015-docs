@@ -18,3 +18,4 @@
 | 16  | Izanderson Guacy Herminio Florencio  | Foca  |
 | 17  | Grécio Beline  | Xicos  |
 | 18  | Hélio Feliciano  | Xicos  |
+| 19  | Sérgio Felipe  | Undefined  |
